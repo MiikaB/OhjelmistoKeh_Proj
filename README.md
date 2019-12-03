@@ -11,3 +11,7 @@ Ennen projektia jouduin avaamaan putty tunnelin manuaalisesti, tosin tallennetul
 Nyt scriptin valmistuttua tunnelin luomisessa kestää noin 3 sekunttia!
 
 Vaikeus asteella scriptiin meni aktiiviset ~6h pähkaillen eri python moduuleita. Lopulta scripti lähti toimimaan vankan kokeilemisen kautta ja opetti, kuinka pythonilla voi suorittaa myös muita terminaalikutsuja, sekä avata ohjelmia.
+
+## !HUOM
+
+Scriptiin pitää lisätä käyttäjätunnus sekä salasana ssh-yhteyden muodostamiseksi, ja turvallisuus syistä olen jättänyt ne githubista pois.
